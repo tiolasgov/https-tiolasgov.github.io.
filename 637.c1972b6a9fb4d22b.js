@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuse=self.webpackChunkfuse||[]).push([[637],{3637:(M,_,n)=>{n.r(_),n.d(_,{LandingModule:()=>a});var o=n(8252),u=n(5151),l=n(903),d=n(4650);class a{}a.\u0275fac=function(E){return new(E||a)},a.\u0275mod=d.oAB({type:a}),a.\u0275inj=d.cJS({imports:[u.m,o.Bz.forChild(l.O)]})}}]);
